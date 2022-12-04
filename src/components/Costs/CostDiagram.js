@@ -1,6 +1,5 @@
 import Diagram from "../Diagram/Diagram";
 
-
 function CostDiagram(props) {
 
     const diagramDataSets = [
